@@ -26,9 +26,9 @@ double Pod::get_max_speed()
 double Pod::get_temperature()
 {
   return 30;
-  double Pod::get_pressure()
+}
+double Pod::get_pressure()
 {
   return 99;
-}
 }
 /// END OF TASKS 3A & 4B ///////////////////////////////////////////////////////
